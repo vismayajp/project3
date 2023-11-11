@@ -1,0 +1,386 @@
+.inbox1{
+    /* background-color: antiquewhite; */
+    /* height: 200px; */
+}
+.inbox2{
+    /* background-color:gray; */
+    /* height: 200px; */
+    padding: 32px;
+    
+    
+    
+   
+}
+.inbox10{
+    /* background-color:gray; */
+    /* height: 200px; */
+    padding: 32px 0px;
+   
+}
+.inbox12{
+    background-color:gray;
+    /* height: 200px; */
+    margin: 15px;
+  
+}
+.th{
+    padding: 40px;
+    color: orange;
+}
+.sec1{
+    background-image: url(photo-169.jpg);
+}
+.inbox3{
+    background-color:gray;
+    /* height: 200px; */
+    padding: 32px;
+    margin: 15px;
+    
+}
+.inbox4{
+    background-color: gray;
+    /* height: 200px; */
+   
+   padding: 32px;
+   margin: 15px;
+   
+}
+.ww{
+    color: white;
+}
+.nn{
+    text-align: center;
+}
+.bh{
+    background-color:gray;
+    border-color: orange;
+    padding-right: 40px;
+    color: white;
+
+}
+.ii{
+    font-size: 45px;
+    color: orange;
+}
+.inbox5{
+    /* background-color: wheat; */
+    /* height: 300px; */
+    margin-top: 20px;
+}
+.sec2{
+   background-color: white;
+   margin-top: 50px;
+}
+.vj{
+    width: 100%;
+}
+.inbox6{
+text-align: center;
+margin-top: 30px;
+text-align: center;
+
+}
+.kk{
+    color: orange;
+    max-width:"15px";
+    margin: auto;
+    
+    
+}
+.hi{
+    font-size: 20px;
+    /* background-color:lightgray; */
+    margin-top: 60px;
+
+}
+.hl{
+    font-size: 20px;
+}
+.pp{
+    background-color: orange;
+    color: white;
+    padding: 11px;
+    margin-bottom: 15px;
+}
+.inbox7{
+    /* background-color:whitesmoke; */
+    /* height: 300px; */
+    padding: 20px;
+}
+.inbox8{
+    /* background-color: rgb(201, 195, 189); */
+    /* height: 300px; */
+    margin: 30px;
+
+}
+.inbox9{
+    min-height: 200px;
+    background-color:whitesmoke;
+}
+.inbox13{
+    /* background-color: aquamarine; */
+    /* height: 200px; */
+    margin-top: 20px;
+}
+.sec4{
+    background-color:whitesmoke;
+}
+.bb{
+    margin-top: 50px;
+}
+.ll{
+    color:lightslategray;
+    font-size: 20px;
+}
+.sec5{
+    background-color: whitesmoke;
+}
+.inbox14{
+    /* background-color: aqua; */
+    /* height: 100px; */
+    margin-top: 20px;
+text-align: center;
+margin-top: 30px;
+}
+.sec6{
+    background-color: whitesmoke;
+}
+.inbox15{
+    background-color: bisque;
+    /* height: 280px; */
+    width: 100%;
+   background-color: orange;
+   color: white;
+    margin-top:25px;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
+.inbox16{
+    background-color: bisque;
+    /* height: 280px; */
+    width: 100%;
+
+    margin-top: 25px;
+}
+.inbox17{
+    background-color: orange;
+   color: white;
+    margin-top:25px;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    /* height: 280px; */
+    width: 100%;
+
+    margin-top: 25px;
+}
+.inbox18{
+    background-color: bisque;
+    /* height: 280px; */
+    width: 100%;
+
+    margin-top: 25px;
+}
+.inbox19{
+    background-color:white;
+    /* height: 280px; */
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+
+    margin-top: 25px;
+}
+.inbox20{
+    /* background-color: bisque; */
+    /* height: 280px; */
+    width: 100%;
+
+    margin-top: 25px;
+}
+.inbox21{
+    background-color:black;
+    /* height: 200px; */
+    margin-top: 30px;
+    text-align: center;
+}
+.sec7{
+    background-image: url(photo-1696945147071.jpg);
+}
+.il{
+    color: orange;
+    margin-top: 30px;
+    display: inline-block;
+     font-size: 40px;
+}
+.oo{
+    color: orange;
+}
+.yy{
+    color: white;
+}
+.inbox22{
+    background-color:white;
+    /* height: 50px; */
+    text-align: center;
+    margin-top: 15PX;
+
+}
+.qq{
+    background-color: orange;
+}
+.inbox23{
+    background-color:white;
+    /* height: 90px; */
+    padding: 20px;
+}
+.yu{
+    color: grey;
+}
+.inbox24{
+    background-color:white;
+    /* height: 100PX; */
+    text-align: center;
+}
+.inbox25{
+    background-color:rgb(213, 165, 125);
+    /* height: 350px; */
+    text-align: center;
+}
+.inbox26{
+    background-color:rgb(196, 137, 89);
+    /* height: 350px; */
+    text-align: center;
+}
+.inbox27{
+    background-color:rgb(156, 146, 90);
+    /* height: 350px; */
+    text-align: center;
+}
+.wq{
+    margin-top: 20px;
+    color:black;
+}
+.pl{
+    background-color: yellow;
+    margin-bottom: 15px;
+}
+.lp{
+    background-color: orange;
+    margin-bottom: 15px;
+}
+.inbox28{
+    background-color: rgb(248, 248, 219);
+    /* height: 250px; */
+}
+.inbox29{
+    background-color: rgb(248, 248, 219);
+    /* height: 250px; */
+    width: 100%;
+}
+.inbox30{
+    /* background-color: blanchedalmond; */
+    /* height: 150px; */
+   text-align: center;
+   color: white;
+   margin-top: 15px;
+}
+.sec8{
+    background-color: grey;
+}
+.inbox32{
+    background-color:white;
+    /* height: 250px; */
+    text-align: center;
+    padding: 20px;
+    margin-top: 15px;
+    
+}
+.inside{
+    /* background-color: aqua; */
+    min-height: 200px;
+    
+}
+.inbox33{
+    text-align: center;
+}
+.inbox34{
+    /* background-color: aqua; */
+    /* height: 300px; */
+    margin-top: 30px;
+    text-align: center;
+}
+.gh{
+    background-color: grey;
+    color: white;
+    border-color: white;
+    
+    
+}
+.inbox35{
+    background-color:white;
+}
+.sec11{
+    background-color: whitesmoke;
+}
+.yp{
+    margin-top: 10px;
+   
+    
+}
+.inbox36{
+    /* background-color:whitesmoke; */
+    text-align: center;
+    color: white;
+}
+.inbox37{
+    background-color: white;
+    /* height: 150px; */
+    margin-top: 50px;
+    text-align: center;
+
+}
+.ko{
+    color: white;
+    background-color: orange;
+    border: orange;
+}
+.sec9{
+    background-color: black;
+}
+.inbox38{
+    background-color:orange;
+    /* height: 150px; */
+    margin-top: 50px;
+    text-align: center;
+
+}
+.inbox39{
+    background-color: white;
+    /* height: 150px; */
+    margin-top: 50px;
+    text-align: center;
+
+}
+.bi{
+    color: orange;
+    font-size: 50px;
+    
+    
+}
+.uu{
+    color: white;
+    font-size: 50px;
+    
+}
+.inbox40{
+color: white;
+text-align: center;
+}
+.sec10{
+    background-color: black;
+}
+.qa{
+    color: white;
+}
